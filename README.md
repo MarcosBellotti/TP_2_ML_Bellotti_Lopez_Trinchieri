@@ -5,3 +5,5 @@
 En este hermoso trabajo práctico nos vamos a embarcar en un aventura de competencia,
 peleas, amores, traiciones y drama para ver quien es el mejor grupo de la materia, y así,
 conquitar el Machine Learning.
+
+![imagen](/images/red%20convolucional.jpeg)
